@@ -1,0 +1,6 @@
+config{
+    type:'table',
+    name:'newbl'
+}
+
+select * from `secure-potion-409606.harika_dataset.details_tbl`
