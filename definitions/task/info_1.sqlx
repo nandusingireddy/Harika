@@ -1,6 +1,7 @@
 config{
     type:'table',
-    name:'newbl'
+    name:'newbl',
+    tags:['newone']
 }
 
 select * from `secure-potion-409606.harika_dataset.details_tbl`
